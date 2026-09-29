@@ -110,34 +110,47 @@ Senior Full Stack Developer with **3+ years of experience** building backend ser
 
 ## 📊 GitHub Stats
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/3-stats.svg?v=2" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/3-stats.svg?v=2" />
+        <img alt="GitHub stats" width="100%" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/3-stats.svg?v=2" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/4-productive-time.svg?v=2" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/4-productive-time.svg?v=2" />
+        <img alt="Productive time" width="100%" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/4-productive-time.svg?v=2" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/1-repos-per-language.svg?v=2" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/1-repos-per-language.svg?v=2" />
+        <img alt="Top languages by repo" width="100%" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/1-repos-per-language.svg?v=2" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/2-most-commit-language.svg?v=2" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/2-most-commit-language.svg?v=2" />
+        <img alt="Top languages by commit" width="100%" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/2-most-commit-language.svg?v=2" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/3-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/3-stats.svg" />
-  <img alt="GitHub stats" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/3-stats.svg" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/1-repos-per-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/1-repos-per-language.svg" />
-  <img alt="Top languages" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/1-repos-per-language.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/2-most-commit-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/2-most-commit-language.svg" />
-  <img alt="Most used languages by commits" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/2-most-commit-language.svg" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/4-productive-time.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/4-productive-time.svg" />
-  <img alt="Productive time" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/4-productive-time.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake.svg?v=2" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake.svg?v=2" />
 </picture>
 
 </div>
