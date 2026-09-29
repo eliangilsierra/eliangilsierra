@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -14,8 +14,23 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
+      - uses: actions/checkout@v4
+
+      # Stats cards are generated here instead of relying on public
+      # vercel.app services, which are often rate-limited or down.
+      # Optional: add a PAT as the SUMMARY_GITHUB_TOKEN secret to include
+      # private contributions; otherwise the default token is used.
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -5
+          AUTO_PUSH: false
+
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +38,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Collect assets
+        run: |
+          mkdir -p dist
+          cp -r profile-summary-card-output/github profile-summary-card-output/github_dark dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
