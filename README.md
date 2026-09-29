@@ -112,10 +112,27 @@ Senior Full Stack Developer with **3+ years of experience** building backend ser
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eliangilsierra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliangilsierra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/3-stats.svg" />
+  <img alt="GitHub stats" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/3-stats.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/1-repos-per-language.svg" />
+  <img alt="Top languages" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/1-repos-per-language.svg" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eliangilsierra&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/2-most-commit-language.svg" />
+  <img alt="Most used languages by commits" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/2-most-commit-language.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github_dark/4-productive-time.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/4-productive-time.svg" />
+  <img alt="Productive time" height="165" src="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github/4-productive-time.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliangilsierra/eliangilsierra/output/github-snake-dark.svg" />
